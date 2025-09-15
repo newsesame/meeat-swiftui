@@ -1,4 +1,4 @@
-# Meeat - Food Matching App
+# Meeat - GPS-based Social Dining App (SwiftUI)
 
 ## Google Maps Setup
 
